@@ -1,1 +1,1 @@
-<a href="https://vanillan-mellondrop.github.io/Portfolio.html">
+https://vanillan-mellondrop.github.io/Portfolio.html
