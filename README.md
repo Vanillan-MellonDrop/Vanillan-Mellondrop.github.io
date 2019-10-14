@@ -23,5 +23,3 @@
   <a href="My Contact Info.html">My Contact Info</a><br>
 </aside>
 </body>
-
-</html>
