@@ -1,0 +1,75 @@
+html {
+  background-image: url("https://images.unsplash.com/photo-1513628253939-010e64ac66cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80");
+  background-clip: border-box;
+  width:100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  margin-top: 50px;
+  color: purple;
+  font-weight: bold;
+  font-family: fantasy;
+  font-size: 60pt;
+  display: flex;
+  justify-content: center;
+	background-color: lightsteelblue;
+  border: violet;
+  border-style: groove;
+	opacity: 0.5;
+  width: 50%
+}
+
+* {
+  margin: auto;
+}
+
+h1:hover {
+  color: blue;
+}
+
+p {
+  margin-top: 50px;
+  margin-left: 20%;
+  color: blue;
+  font-weight: bold;
+  font-family: fantasy;
+  font-size: 32pt;
+  background-color: lightsteelblue;
+  border: violet;
+  border-style: groove;
+	opacity: 0.5;
+  width: 60%;
+  float: left;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+p:hover {
+  color: white;
+}
+
+.guide {
+  font-weight: bold;
+  font-style: oblique;
+  font-family: fantasy;
+  font-size: 20pt;
+	background-color: lightsteelblue;
+  border: violet;
+  border-style: groove;
+	opacity: 0.5;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 1%;
+  right: 1%;
+
+a {
+  color: purple;
+}
+
+.guide a:hover {
+  color: blue;
+}
