@@ -49,6 +49,7 @@ p {
 }
 
 p:hover {
+	transition: 3s;
   color: white;
 	transition: 3s;
 	font-family: cursive;
