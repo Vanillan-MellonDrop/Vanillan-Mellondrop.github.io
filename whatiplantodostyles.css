@@ -25,9 +25,9 @@ h1 {
 }
 
 h1:hover {
+  transition: 3s;
   color: blue;
-	transition: 1s;
-	font-family: cursive;
+  font-family: cursive;
 }
 
 p {
@@ -104,5 +104,6 @@ a {
 }
 
 .top:hover {
+  transition: 2s;
   color: blue;
 }
