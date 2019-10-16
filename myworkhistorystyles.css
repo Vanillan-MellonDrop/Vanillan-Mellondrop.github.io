@@ -87,20 +87,25 @@ li {
 }
 
 li:hover {
-  color: purple;
-  opacity: 1;
+ color: purple;
+ opacity: 1;
 }
 
 p:hover {
-  color: white;
-}
+ cursor: pointer;
+ transition: 5s;
+ font-family: fantasy;
+ color: white;
+ transition: 5s;
+ font-family: cursive;
+ color: purple;}
 
 .guide, .top {
   font-weight: bold;
   font-style: oblique;
   font-family: fantasy;
   font-size: 20pt;
-	background-color: lightsteelblue;
+  background-color: lightsteelblue;
   border: violet;
   border-style: groove;
 	opacity: 0.5;
