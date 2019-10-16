@@ -103,3 +103,90 @@ a {
 .guide a:hover {
   color: blue;
 }
+/*My Work History*/
+.history p:hover {
+  color: white;
+}
+ul {
+ margin-top: 50px;
+ margin-left: 20%;
+ color: blue;
+ font-weight: bold;
+ font-family: fantasy;
+ font-size: 32pt;
+ background-color: lightsteelblue;
+ border: violet;
+ border-style: groove;
+ opacity: 0.5;
+ width: 60%;
+ float: left;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ text-align: center;
+}
+
+li {
+ margin-top: 50px;
+ margin-left: 20%;
+ color: blue;
+ font-weight: bold;
+ font-family: fantasy;
+ font-size: 32pt;
+ background-color: lightsteelblue;
+ border: violet;
+ border-style: groove;
+ opacity: 0.5;
+ width: 60%;
+ float: left;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ text-align: center;
+}
+
+li:hover {
+  color: purple;
+  opacity: 1;
+}
+
+p:hover {
+  color: white;
+}
+
+.guide, .top {
+  font-weight: bold;
+  font-style: oblique;
+  font-family: fantasy;
+  font-size: 20pt;
+	background-color: lightsteelblue;
+  border: violet;
+  border-style: groove;
+	opacity: 0.5;
+}
+p {
+  margin-top: 50px;
+  margin-left: 20%;
+  color: blue;
+  font-weight: bold;
+  font-family: fantasy;
+  font-size: 32pt;
+  background-color: lightsteelblue;
+  border: violet;
+  border-style: groove;
+	opacity: 0.5;
+  width: 60%;
+  float: left;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.top {
+	position: absolute;
+	bottom: -175%;
+  right: 1%;
+}
+
+.top:hover {
+  color: blue;
+}
