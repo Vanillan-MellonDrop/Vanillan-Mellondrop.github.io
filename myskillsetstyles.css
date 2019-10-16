@@ -78,7 +78,6 @@ a {
   flex-direction: column;
   right: 1%;
   top: 23%;
-  height: auto; 
   position: fixed;
   z-index: 1;
   top: 0;
