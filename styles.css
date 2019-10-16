@@ -43,6 +43,7 @@ h1:hover {
   width: 60%;
   float: left;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   text-align: center;
 }
@@ -102,4 +103,8 @@ a {
 }
 .guide a:hover {
   color: blue;
+}
+
+.anch{
+    padding-top: 20px;
 }

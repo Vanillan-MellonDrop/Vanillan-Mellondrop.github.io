@@ -83,3 +83,12 @@ a {
 .guide a:hover {
   color: blue;
 }
+
+.anch {
+  padding-top: 20px;
+}
+
+.fbook{
+  padding: 20px;
+  text-decoration: none;
+}
