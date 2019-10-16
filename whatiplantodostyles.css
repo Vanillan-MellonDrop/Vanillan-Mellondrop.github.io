@@ -75,6 +75,7 @@ p:hover {
 }
 
 a {
+  transition: 2s;
   color: purple;
 }
 
