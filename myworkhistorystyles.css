@@ -109,18 +109,40 @@ p:hover {
 a {
   color: purple;
 }
-
-.guide {
-  display: flex;
-  flex-direction: column;
-  position: absolute;
-  top: 1%;
-  right: 1%;
+.guide, .top {
+  font-weight: bold;
+  font-style: oblique;
+  font-family: fantasy;
+  font-size: 20pt;
+	background-color: lightsteelblue;
+  border: violet;
+  border-style: groove;
+	opacity: 0.5;
 }
 
+a {
+  color: purple;
+}
+
+.guide {
+  border: 1rem ridge;
+  position: fixed;
+  right: 1%;
+  top: 23%;
+  text-align: center;
+  padding: 1rem 1rem;
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+}
+
+a {
+    padding: .2rem .2rem;
+}
 .guide a:hover {
   color: blue;
 }
+
 .top {
 	position: absolute;
 	bottom: -516%;
