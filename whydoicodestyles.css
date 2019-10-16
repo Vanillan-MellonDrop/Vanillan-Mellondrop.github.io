@@ -51,6 +51,7 @@ h1:hover {
 p:hover {
   color: white;
 }
+
 .guide, .top {
   font-weight: bold;
   font-style: oblique;
@@ -81,6 +82,7 @@ a {
 a {
     padding: .2rem .2rem;
 }
+
 .guide a:hover {
   color: blue;
 }
