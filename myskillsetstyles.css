@@ -76,9 +76,6 @@ a {
 .guide {
   display: flex;
   flex-direction: column;
-  right: 1%;
-  top: 23%;
-  width: 25%;
   position: fixed;
   z-index: 1;
 }
