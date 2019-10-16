@@ -48,7 +48,10 @@ p {
 }
 
 p:hover {
-  color: white;
+ transition: 5s;
+ color: purple;
+ transition: 5s;
+ color: white;
 }
 
 .guide, .top {
