@@ -26,6 +26,8 @@ h1 {
 
 h1:hover {
   color: blue;
+	transition: 1s;
+	font-family: cursive;
 }
 
 p {
@@ -48,6 +50,15 @@ p {
 
 p:hover {
   color: white;
+	transition: 1s;
+	font-family: cursive;
+	color: blue;
+	transition: 1s;
+	font-family: fantasy;
+	color: purple;
+	transition: 1s;
+	font-family: cursive;
+	cursor: pointer;
 }
 
 .guide, .top {
