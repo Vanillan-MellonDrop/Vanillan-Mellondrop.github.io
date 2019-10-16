@@ -66,20 +66,22 @@ a {
 }
 
 .guide {
+  border: 1rem ridge;
+  position: fixed;
+  right: 1%;
+  top: 23%;
+  text-align: center;
+  padding: 1rem 1rem;
   display: flex;
   flex-direction: column;
-  position: absolute;
-  top: 1%;
-  right: 1%;
+  width: 150px;
 }
 
+a {
+    padding: .2rem .2rem;
+}
 .guide a:hover {
   color: blue;
-}
-.top {
-	position: absolute;
-	bottom: -182%;
-  right: 1%;
 }
 
 .top:hover {
