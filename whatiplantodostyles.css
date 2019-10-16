@@ -51,19 +51,11 @@ p {
 p:hover {
 	cursor: pointer;
 	transition: 5s;
-	font-family: cursive;
-	color: grey;
-	transition: 5s;
 	font-family: fantasy;
+	color: white;
+      	transition: 5s;
+	font-family: cursive;
 	color: purple;
-	transition: 5s;
-	font-family: cursive;
-	transition: 5s;
-        color: white;
-	font-family: fantasy;
-	transition: 5s;
-	font-family: cursive;
-	color: blue;
 }
 
 .guide, .top {
