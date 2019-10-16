@@ -89,7 +89,7 @@ h1:hover {
   .guide {
     display: flex;
     flex-direction: column;
-    position: sticky;
+    position: absolute;
     top: 1%;
     right: 1%;
   }
