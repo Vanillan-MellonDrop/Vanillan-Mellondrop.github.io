@@ -50,13 +50,13 @@ p {
 
 p:hover {
   color: white;
-	transition: 1s;
+	transition: 3s;
 	font-family: cursive;
 	color: blue;
-	transition: 1s;
+	transition: 3s;
 	font-family: fantasy;
 	color: purple;
-	transition: 1s;
+	transition: 3s;
 	font-family: cursive;
 	cursor: pointer;
 }
