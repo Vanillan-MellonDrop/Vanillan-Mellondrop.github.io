@@ -57,9 +57,10 @@ li:hover {
 p:hover {
  cursor: pointer;
  transition: 5s;
- color: white;
+ color: purple;
  transition: 5s;
- color: purple;}
+ color: white;
+}
 
 .guide, .top {
   font-weight: bold;
