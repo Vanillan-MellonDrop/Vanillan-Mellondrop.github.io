@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+<meta charset="utf-8">
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
+<title>Cosplays & Conventions</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<link rel="icon" href="https://images.unsplash.com/photo-1490814525860-594e82bfd34a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1626&q=80" type="image/icon type">
+</head>
+
+<body>
+<h1>Welcome to my page!</h1>
+<p class="intro">
+  <img src="20190306_181715.jpg" alt="A photo of me outside Thaddeus Stevens College of Technology in the middle of a snowy winter day.">
+  Hey. This is your girl, Vanillan MellonDrop AKA MC VMD!!!</p>
+  <p>Super pumped to share all my cosplay and convention stuffs on my website THAT I MADE!!!
+  How awesome is that?! Scale of awesome to goddess of all things nerd? Bow down to your goddess! JK, peepz.
+  Anyway, this is the place to see all the awesomest cosplay pics I could
+  ever post PLUS any of my convention pics/vids and whatever my most current news is.</p>
+<nav class="guide">
+  <a href="Cosplay-Plans.html">Cosplay Plans</a><br>
+  <a href="Cosplay-Gallery.html">Cosplay Gallery</a><br>
+  <a href="Convention.html">Conventions</a><br>
+  <a href="Conventions-Gallery.html">Conventions Gallery</a><br>
+  <a href="Photoshoot-Info.html">Photoshoot Info</a><br>
+</nav>
+</body>
+
+</html>
