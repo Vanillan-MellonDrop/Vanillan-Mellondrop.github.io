@@ -1,0 +1,78 @@
+  
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+<meta charset="utf-8">
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
+<title>Cosplay Plans</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<link rel="icon" href="https://images.unsplash.com/photo-1490814525860-594e82bfd34a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1626&q=80" type="image/icon type">
+</head>
+
+<body>
+<h1>Welcome to my page!</h1>
+<p class="intro">
+  <img src="20190306_181715.jpg" alt="A photo of me outside Thaddeus Stevens College of Technology in the middle of a snowy winter day.">
+  Here is a list of all the cosplays I am planning to do.
+  If you seen *SOON!!!* to the left of it, that means it should be happening very soon and you should
+  probably keep an eye out because I'll be posting as soon as it's complete.
+  I will cycle through these characters at random, so if I have already done them,
+  they're more than likely gonna be done again.
+  If the word *VARIOUS* is to the right of a fandom name, there are several and I'll update on a per character basis.</p>
+  <li>Ochako Uraraka</li>
+  <li>Harley Quinn</li>
+  <li>Hatsune Miku</li>
+  <li>Batgirl</li>
+  <li>Kagome </li>
+  <li>Wonder Woman</li>
+  <li>Sailor Jupiter</li>
+  <li>SpiderGwen</li>
+  <li>Hogwarts OC</li>
+  <li>Kingdom Hearts Aqua</li>
+  <li>Supergirl</li>
+  <li>Kingdom Hearts Kairi</li>
+  <li>Miraculous: Tales of Ladybug &amp Cat Noir VARIOUS</li>
+  <li>Yandere Simulator VARIOUS - Ayano</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+  <li>Uraraka</li>
+<nav class="guide">
+  <a href="Coventions-and-Cosplays.html">Home Page</a><br>
+  <a href="Cosplay-Gallery.html">Cosplay Gallery</a><br>
+  <a href="Convention.html">Conventions</a><br>
+  <a href="Conventions-Gallery.html">Conventions Gallery</a><br>
+  <a href="Photoshoot-Info.html">Photoshoot Info</a><br>
+</nav>
+</body>
+
+</html>
