@@ -13,7 +13,7 @@ h1 {
   margin-top: 50px;
   color: purple;
   font-weight: bold;
-  font-family: fantasy;
+  font-family: comic sans ms;
   font-size: 60pt;
   display: flex;
   justify-content: center;
@@ -27,7 +27,7 @@ h1 {
 h1:hover {
   transition: 3s;
   color: blue;
-  font-family: cursive;
+  font-family: courier;
 }
 
 p {
@@ -35,7 +35,7 @@ p {
   margin-left: 20%;
   color: blue;
   font-weight: bold;
-  font-family: fantasy;
+  font-family: comic sans ms;
   font-size: 32pt;
   background-color: lightsteelblue;
   border: violet;
@@ -51,7 +51,7 @@ p {
 p:hover {
 	cursor: pointer;
 	transition: 5s;
-	font-family: fantasy;
+	font-family: comic sans ms;
 	color: white;
       	transition: 5s;
 	font-family: cursive;
@@ -61,7 +61,7 @@ p:hover {
 .guide, .top {
   font-weight: bold;
   font-style: oblique;
-  font-family: fantasy;
+  font-family: comic sans ms;
   font-size: 20pt;
 	background-color: lightsteelblue;
   border: violet;
